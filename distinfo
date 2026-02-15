@@ -1,0 +1,5 @@
+TIMESTAMP = 1771060253
+SHA256 (vscodium/VSCodium-vscodium-1.109.21026_GH0.tar.gz) = 0f4e8cefacc759a61c93ced68a941c9b6cc45ed42bfbf8af3c34281833d9a0c2
+SIZE (vscodium/VSCodium-vscodium-1.109.21026_GH0.tar.gz) = 10885986
+SHA256 (vscodium/microsoft-vscode-591199df409fbf59b4b52d5ad4ee0470152a9b31_GH0.tar.gz) = 17c33968bb5790a073b3b76d5794b709843b0a4560775ef5df85bcca28387790
+SIZE (vscodium/microsoft-vscode-591199df409fbf59b4b52d5ad4ee0470152a9b31_GH0.tar.gz) = 25010333
